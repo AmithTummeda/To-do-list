@@ -1,7 +1,7 @@
-## To-do list app
+# To-do list app
 This project was developed using React
 
-# Functionalities
+## Functionalities
 1. Add new tasks
 2. Edit existing tasks
 3. Delete tasks
