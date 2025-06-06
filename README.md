@@ -1,5 +1,5 @@
 # To-do list app
-This project was developed using React
+This project was developed using React and is deployed to Github Pages
 
 ## Functionalities
 1. Add new tasks
